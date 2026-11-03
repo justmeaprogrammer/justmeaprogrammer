@@ -31,7 +31,7 @@ class Om:
 
     def currently(self):
         return {
-            "building":  "Legal Research Engine (BM25 + vector search)",
+            "building":  "GenAI apps with RAG and LangGraph agents",
             "learning":  ["Java", "HyDE", "RAPTOR", "Self-RAG"],
             "looking_for": "a team that ships GenAI products",
         }
@@ -89,22 +89,12 @@ flowchart LR
 <tr>
 <td width="50%" valign="top">
 
-### ⚖️ Legal Research Engine
-Hybrid **BM25 + vector search** over Indian court judgments, built for commercial courts (SIH).
-
-`Python` `RAG` `Hybrid Search`
-
-</td>
-<td width="50%" valign="top">
-
 ### 🤖 LangGraph Multi-Tool Agent
 An agent that decides when to search **arXiv, Wikipedia or DuckDuckGo** to answer your question.
 
 `LangGraph` `MCP` `Agents`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 💬 SQL Chat App
@@ -113,6 +103,8 @@ Ask your database questions in plain English. Dark, DataGrip-inspired UI. **100%
 `LangChain` `Streamlit` `SQL`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🎣 Phishing Detection Pipeline
@@ -121,8 +113,6 @@ End-to-end ML pipeline with experiment tracking and deployment. **~97% accuracy.
 `FastAPI` `MLflow` `MongoDB` `Docker`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 📚 LangChain Series (v1 → v4)
@@ -131,6 +121,8 @@ From a memory chatbot to document Q&A, hybrid search and finally an MCP agent. F
 `LangChain` `ChromaDB` `HuggingFace`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 📡 vnstat-gui
@@ -139,6 +131,7 @@ A PyQt6 desktop app to monitor network usage on Ubuntu.
 `PyQt6` `Linux`
 
 </td>
+<td width="50%"></td>
 </tr>
 </table>
 
@@ -148,18 +141,7 @@ A PyQt6 desktop app to monitor network usage on Ubuntu.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=justmeaprogrammer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justmeaprogrammer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=justmeaprogrammer&theme=tokyonight&hide_border=true&background=0f0c29" height="150"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=justmeaprogrammer&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="trophies" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=justmeaprogrammer&bg_color=0f0c29&color=24c6dc&line=302b63&point=ffffff&area=true&hide_border=true" width="100%" alt="activity graph" />
 
 <br/>
 
@@ -186,8 +168,6 @@ A PyQt6 desktop app to monitor network usage on Ubuntu.
 [![GitHub](https://img.shields.io/badge/GitHub-justmeaprogrammer-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/justmeaprogrammer)
 
 *If you're building something with GenAI, I'd love to chat.* ✨
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24c6dc,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
